@@ -1,7 +1,7 @@
 <!--
- * @Author: yuyanget 845262968@qq.com
+ * @Author: yuyanget yuyangit.0515@qq.com
  * @Date: 2024-10-18 12:34:50
- * @LastEditors: yuyanget 845262968@qq.com
+ * @LastEditors: yuyanget yuyangit.0515@qq.com
  * @LastEditTime: 2024-10-24 10:13:25
  * @FilePath: /xy_type/readme/README_zh_TW.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
@@ -80,5 +80,5 @@ xy_type 根據 <木蘭寬鬆許可證, 第2版> 獲得許可。有關詳細信�
 
 ```
 微信: yuyangiit
-郵箱: 845262968@qq.com
+郵箱: yuyangit.0515@qq.com
 ```
