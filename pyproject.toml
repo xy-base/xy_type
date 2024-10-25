@@ -8,7 +8,7 @@ requires-python = ">=3.11.3"
 
 name = "xy_type"
 
-authors = [{ name = "余洋", email = "yuyangit.0515@qq.com" }]
+authors = [{ name = "yuyangit", email = "yuyangit.0515@qq.com" }]
 description = "类型辅助模块"
 
 dynamic = ["version"]
