@@ -21,7 +21,7 @@ Type tools.
 - <a href="https://gitee.com/xy-base/xy_type.git" target="_blank">Gitee</a>
 
 
-## Install
+## Installation
 
 ```
 pip install xy_type
