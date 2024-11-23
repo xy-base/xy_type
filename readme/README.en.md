@@ -75,7 +75,7 @@ xy_type is licensed under the <Mulan Permissive Software License，Version 2>. S
 
 If you think these tools are pretty good, Can you please have a cup of coffee?  
 
-![Pay-Total](./Pay-Total.png)
+![pay-total](./pay-total.png)
 
 
 ## Contact
